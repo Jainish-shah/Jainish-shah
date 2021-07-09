@@ -12,7 +12,7 @@
 - 💬 Ask me about **anything related to Flutter, ML**
 - 📫 How to reach me: [Jainish Shah](jainishnikul2525gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ** Creating Idiosychractic skills...**
+- ⚡ Fun fact: ** Finding Idiosychractic skills in me...**
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jainish-shah&theme=radical&show_icons=true" alt="image" />
