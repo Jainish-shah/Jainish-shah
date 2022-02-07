@@ -4,12 +4,12 @@
 
 <h3 align="center">This is the place where I hack, break and learn stuff.</h3>
 
-- 🔭 I’m currently working on Image Processing and OpenCV 💻.
-- 🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working on Django (DRF), Image Processing and OpenCV 💻
+- 🌱 I’m currently learning Tensorflow, Django Rest Framework
 - 🤔 I’m looking for help with deep learning projects
 - My interest areas include Brain Storming, Data Science and Deep Learning 👩‍💻
 - 👨‍💻 All of my projects are available at [here.](https://github.com/Jainish-shah)
-- 💬 Ask me about **anything related to Flutter, ML**
+- 💬 Ask me about **anything related to Flutter, ML, Django REST**
 - 📫 How to reach me: [Jainish Shah](jainishnikul2525gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ** Finding Idiosychractic skills in me...**
