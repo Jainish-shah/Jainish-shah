@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainish-shah&label=Profile%20views&color=0e75b6&style=flat" alt="jainish-shah" /> </p>
 
-- 🔭 I’m currently working on **Django (DRF), Image Processing and OpenCV 💻**
+- 🔭 I’m currently working on **Django (DRF), Image Processing, Flutter, API integrations and OpenCV 💻**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch, Flutter**
 
 - 👯 I’m looking to collaborate on **Javascript and React**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jainish-shah](https://github.com/Jainish-shah)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Flutter, APIs**
 
 - 📫 How to reach me **jainishnikul2525@gmail.com**
 
